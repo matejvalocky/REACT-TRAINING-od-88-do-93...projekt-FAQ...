@@ -1,4 +1,4 @@
-//React 89 - Projekt FAQ - data a komponenta
+//React 90 - Projekt FAQ - tvoríme komponentu otázka
 
 
 
