@@ -1,4 +1,4 @@
-//React 90 - Projekt FAQ - tvoríme komponentu otázka
+//React 91 - Projekt FAQ - map a rest parametr
 
 
 
@@ -7,12 +7,12 @@ import Question from "./components/Question"
 
 const App = () => {
   return <div>
-            <Question />
-            <Question />
-            <Question />
-            <Question />
-            <Question />
-            <Question />
+    {   
+    questions.map((oneQuestion) =>{
+        return <Question key={oneQuestion.id} {...oneQuestion} />
+      })
+    }
+        
         </div>
 
 
