@@ -1,4 +1,4 @@
-//React 92 - Projekt FAQ - stylování aplikace
+//React 93 - Projekt FAQ - pridanie ďalších otázok a odpovedí
 
 
 

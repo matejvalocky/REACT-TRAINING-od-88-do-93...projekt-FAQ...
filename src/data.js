@@ -19,6 +19,16 @@ const questions = [
         title: "Jak často Netflix přidává nové filmy?",
         info: "Iste, accusantium numquam magni excepturi maiores rem molestiae in maxime."
     },
+    {
+        id: 5,
+        title: "Čo je to Netflix?",
+        info: "Netflix je streamovacia služba filmov"
+    },
+    {
+        id: 6,
+        title: "V koľkých zariadeniach môžem Neflix používať?",
+        info: "Iste, accusantium numquam magni excepturi maiores rem molestiae in maxime."
+    },
     ]
     
     export default questions
